@@ -125,3 +125,5 @@ java -cp target/lab7-echo-censor-1.0.jar com.student.net.NetworkScanner 10.0.0. 
 ## Автор
 Студент группы [ВАША ГРУППА]
 Дата: 2024
+### C:\Users\cocem\.jdks\openjdk-25.0.2\bin\java -cp target/lab7-echo-censor-1.0.jar com.student.net.CensorClient
+###  java -jar target/lab7-echo-censor-1.0.jar -- ЗАПУСК
